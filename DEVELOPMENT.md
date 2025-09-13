@@ -15,7 +15,7 @@ Ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ncdai/mealisohail.com.git your-portfolio
+git clone https://github.com/ncdai/mohammadkaif.com.git your-portfolio
 cd your-portfolio
 ```
 
@@ -64,10 +64,10 @@ This project utilizes **shadcn Registry**, which allows you to manage and distri
 If you're working on a different React project and want to reuse the custom components from this repository, you can add them using the **shadcn CLI** with the following commands:
 
 ```bash
-npx shadcn@latest add https://mealisohail.com/r/cn.json
-npx shadcn@latest add https://mealisohail.com/r/switch-theme.json
-npx shadcn@latest add https://mealisohail.com/r/flip-sentences.json
-npx shadcn@latest add https://mealisohail.com/r/apple-hello-effect.json
+npx shadcn@latest add https://mohammadkaif.com/r/cn.json
+npx shadcn@latest add https://mohammadkaif.com/r/switch-theme.json
+npx shadcn@latest add https://mohammadkaif.com/r/flip-sentences.json
+npx shadcn@latest add https://mohammadkaif.com/r/apple-hello-effect.json
 ```
 
 > Note: These components are compatible with [Tailwind CSS v4](https://tailwindcss.com/blog/tailwindcss-v4) and [React 19](https://react.dev/blog/2024/12/05/react-19).

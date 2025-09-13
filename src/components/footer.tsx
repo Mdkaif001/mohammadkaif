@@ -12,18 +12,18 @@ export function Footer() {
         Built by{" "}
         <a
           className="link"
-          href="https://linkedin.com/in/mealisohail"
+          href="https://linkedin.com/in/mohammadkaif"
           target="_blank"
           rel="noopener noreferrer"
         >
-          mealisohail
+          mohammadkaif
         </a>
         .
       </p>
 
       {/* <div className="mb-5 flex justify-center">
         <a
-          href="https://www.dmca.com/Protection/Status.aspx?ID=85a452ca-06aa-4352-bfeb-7cb563dbd2b9&refurl=https://mealisohail.com/"
+          href="https://www.dmca.com/Protection/Status.aspx?ID=85a452ca-06aa-4352-bfeb-7cb563dbd2b9&refurl=https://mohammadkaif.com/"
           title="DMCA.com Protection Status"
           aria-label="DMCA.com Protection Status"
           target="_blank"

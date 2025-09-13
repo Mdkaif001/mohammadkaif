@@ -10,15 +10,15 @@ export const AWARDS: Award[] = [
     description:
       "- Field: Creative Software Development\n- Project: Whatsapp web advanced version",
   },
-  {
-    id: "d9dc1a25-7976-47f8-925e-051285822d54",
-    prize: "Particpation Prize",
-    title: "VoidHacks Hackathon",
-    date: "2022-11",
-    grade: "Grade 8",
-    description:
-      "- Field: Creative Software Development\n- Project: Waste Management System",
-  },
+  // {
+  //   id: "d9dc1a25-7976-47f8-925e-051285822d54",
+  //   prize: "Particpation Prize",
+  //   title: "VoidHacks Hackathon",
+  //   date: "2022-11",
+  //   grade: "Grade 8",
+  //   description:
+  //     "- Field: Creative Software Development\n- Project: Waste Management System",
+  // },
   // {
   //   id: "38ab726f-4730-49fa-ad40-fc7c5872e476",
   //   prize: "Third Prize",

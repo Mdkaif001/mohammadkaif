@@ -15,7 +15,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
         enableSystem
         disableTransitionOnChange
         enableColorScheme
-        storageKey="mealisohail.theme"
+        storageKey="mohammadkaif.theme"
         defaultTheme="system"
         attribute="class"
       >

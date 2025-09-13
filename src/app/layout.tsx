@@ -90,7 +90,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: `
               try {
-                if (localStorage['mealisohail.theme'] === 'dark' || ((!('mealisohail.theme' in localStorage) || localStorage['mealisohail.theme'] === 'system') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                if (localStorage['mohammadkaif.theme'] === 'dark' || ((!('mohammadkaif.theme' in localStorage) || localStorage['mohammadkaif.theme'] === 'system') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
                   document.querySelector('meta[name="theme-color"]').setAttribute('content', '${META_THEME_COLORS.dark}')
                 }
               } catch (_) {}

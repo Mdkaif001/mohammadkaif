@@ -1,17 +1,17 @@
 {
-  "name": "mealisohail.com",
+  "name": "mohammadkaif.com",
   "version": "0.1.0",
-  "description": "mealisohail.com is my portfolio website, showcasing my work and experience as a Software Developer & UI/UX Designer.",
+  "description": "mohammadkaif.com is my portfolio website, showcasing my work and experience as a Software Developer & UI/UX Designer.",
   "author": {
-    "name": "Sohail Akhtar Ali",
+    "name": "Mohammad Kaif",
     "email": "alisohail2448@gmail.com",
     "url": "https://github.com/ncdai"
   },
   "contributors": [
     {
-      "name": "Sohail Akhtar Ali",
+      "name": "Mohammad Kaif",
       "email": "alisohail2448@gmail.com",
-      "url": "https://github.com/mealisohail"
+      "url": "https://github.com/mohammadkaif"
     }
   ],
   "license": "MIT",

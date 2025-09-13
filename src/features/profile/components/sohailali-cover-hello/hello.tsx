@@ -75,8 +75,8 @@ export function Hello() {
               exit={{ opacity: 0, scale: 0.8 }}
               transition={{ duration: 0.5 }}
             >
-              <Image src='/images/cover.png' alt="cover"   width={380} height={200}  className="h-16 sm:h-20 hidden [html.dark_&]:block" />
-              <Image src='/images/cover2.png' alt="cover"   width={380} height={200}  className="h-16 sm:h-20 hidden [html.light_&]:block" />
+              <Image src='/images/cover2.png' alt="cover"   width={380} height={200}  className="h-16 sm:h-20 hidden [html.dark_&]:block" />
+              <Image src='/images/cover.png' alt="cover"   width={380} height={200}  className="h-16 sm:h-20 hidden [html.light_&]:block" />
             </motion.div>
           )}     
 

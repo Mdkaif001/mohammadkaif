@@ -1,8 +1,8 @@
 export const USER = {
-  firstName: "Sohail Akhtar",
-  lastName: "Ali",
-  displayName: "Sohail Akhtar Ali",
-  username: "mealisohail",
+  firstName: "Mohammad Kaif",
+  lastName: "",
+  displayName: "Mohammad Kaif",
+  username: "mohammadkaif",
   gender: "male",
   bio: "Creating with code, driven by passion.",
   flipSentences: [
@@ -10,32 +10,34 @@ export const USER = {
     "Full Stack Developer",
     "Open Source Contributor",
   ],
-  address: "Akot, Maharashtra, India",  
-  phoneNumber: "KzkxNzI0OTA0NzEwNQ==", // E.164 format, base64 encoded (https://t.io.vn/base64-string-converter)
-  email: "YWxpc29oYWlsMjQ0OEBnbWFpbC5jb20=", // base64 encoded
-  // email: "dai[at]mealisohail[dot]com",
-  website: "https://mealisohail.vercel.app",
-  otherWebsites: [
-  ],
-  dateOfBirth: "2003-06-17", // YYYY-MM-DD
+  address: "Warud, Maharashtra, India",
+  phoneNumber: "NzM4NTE1MzczMQ==", // E.164 format, base64 encoded (https://t.io.vn/base64-string-converter)
+  email: "bWtrYWlmMDAyQGdtYWlsLmNvbQ==", // base64 encoded
+  // email: "dai[at]mohammadkaif[dot]com",
+  website: "https://mohammadkaif.vercel.app",
+  otherWebsites: [],
+  dateOfBirth: "2001-12-21", // YYYY-MM-DD
   jobTitle: "Full Stack Developer",
   jobs: [
     {
-      title: "SDE-1",
-      company: "Signzy",
-      website: "https://www.signzy.com/",
+      title: "Full Stack Developer",
+      company: "Truschoalr.io",
+      website: "https://www.truscholar.io/",
     },
   ],
   about: `
-Hello, World! I am Sohail Akhtar Ali, a Software Developer & Full Stack Developer passionate about creating high-performance, user-centric software solutions with intuitive and engaging designs.\n
-With 1+ years of experience, I specialize in building high-quality web and mobile applications using Next.js, React, TypeScript, and modern front-end technologies. Beyond work, I love exploring new technologies and turning ideas into reality through personal projects.\n
-One of my key projects, [Dev Finder](https://github.com/mealisohail/dev-finder), is a real-time, multi-user pair programming platform with secure authentication and seamless collaboration tools. Designed and implemented a Next.js-based system with dynamic room management, participant controls, and real-time communication. Integrated NextAuth.js for secure authentication and modern UI components with Shadcn & Tailwind CSS. Delivered a robust, interactive platform featuring real-time screen sharing, video calls, and chat powered by Stream Chat, significantly enhancing remote coding collaboration.
-.\n
-Let's connect and collaborate!
-  `,
+Hello, World! I’m Mohammad Kaif — a curious problem solver and passionate Full Stack Developer who loves turning ideas into impactful software. I believe great technology should not just work, but feel simple, intuitive, and human.
+
+With 1+ years of experience, I specialize in building user-centric web and mobile applications using Next.js, React, TypeScript, and modern front-end technologies. Beyond my professional work, I enjoy experimenting with new tools and frameworks, always learning, and creating side projects that push my boundaries.
+
+One of my proudest projects, [HIREREADY AI](https://ai-interview-frontend-zeta.vercel.app/), is an AI-powered interview preparation tool designed especially for beginners. It helps learners practice interviews in a safe environment with dynamic questions, real-time feedback, and a smooth user experience — giving them the confidence to shine when it matters most.
+
+Outside of coding, you’ll often find me exploring new tech trends, collaborating with peers, or brainstorming ideas that could make someone’s life a little easier. I’m always excited to connect with people who share the same energy for building and learning.
+
+Let’s connect and build something meaningful together!
+`,
   avatar: "/images/profile.jpg",
-  ogImage: "/images/mealisohail-og-image.png",
-  keywords:
-    "mealisohail, sohail ali, alisohail, sohail akhtar ali, me",
-  dateCreated: "2023-10-20", // YYYY-MM-DD
+  ogImage: "/images/mohammadkaif-og-image.png",
+  keywords: "mohammadkaif, kaif, me",
+  dateCreated: new Date().toISOString().split("T")[0], // YYYY-MM-DD
 };

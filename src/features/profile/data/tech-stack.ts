@@ -13,12 +13,12 @@ export const TECH_STACK: TechStack[] = [
     href: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     categories: ["Language"],
   },
-  {
-    key: "python",
-    title: "Python",
-    href: "https://www.python.org/",
-    categories: ["Language"],
-  },
+  // {
+  //   key: "python",
+  //   title: "Python",
+  //   href: "https://www.python.org/",
+  //   categories: ["Language"],
+  // },
   {
     key: "java",
     title: "Java",
@@ -83,22 +83,10 @@ export const TECH_STACK: TechStack[] = [
     categories: ["Cloud", "Platform"],
   },
   {
-    key: "solidity",
-    title: "Solidity",
-    href: "https://soliditylang.org/",
-    categories: ["Smart Contract Language"],
-  },
-  {
     key: "redux",
     title: "Redux",
     href: "https://redux.js.org/",
     categories: ["State Management"],
-  },
-  {
-    key: "antd",
-    title: "Ant Design",
-    href: "https://ant.design/",
-    categories: ["Library", "UI Library"],
   },
   {
     key: "react-router",
@@ -111,24 +99,6 @@ export const TECH_STACK: TechStack[] = [
     title: "React Navigation",
     href: "https://reactnavigation.org/",
     categories: ["Library", "Navigation"],
-  },
-  {
-    key: "ethereum",
-    title: "Ethereum",
-    href: "https://ethereum.org/",
-    categories: ["Blockchain", "Platform"],
-  },
-  {
-    key: "kubernetes",
-    title: "Kubernetes",
-    href: "https://kubernetes.io/",
-    categories: ["Container Orchestration"],
-  },
-  {
-    key: "nginx",
-    title: "Nginx",
-    href: "https://www.nginx.com/",
-    categories: ["Web Server"],
   },
   {
     key: "git",

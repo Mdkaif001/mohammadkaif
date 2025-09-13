@@ -2,7 +2,7 @@ import { USER } from "@/data/user";
 
 export const SITE_INFO = {
   name: USER.displayName,
-  url: process.env.APP_URL || "https://mealisohail.com",
+  url: process.env.APP_URL || "https://mohammadkaif.com",
   ogImage: USER.ogImage,
   description: USER.bio,
   keywords: USER.keywords,
@@ -13,7 +13,7 @@ export const META_THEME_COLORS = {
   dark: "#09090b",
 };
 
-export const SOURCE_CODE_GITHUB_URL = "https://github.com/mealisohail";
+export const SOURCE_CODE_GITHUB_URL = "https://github.com/mohammadkaif";
 
 export const VIETNAM_HOLIDAYS = [
   "2025-03-08", // Ngày Quốc tế Phụ nữ

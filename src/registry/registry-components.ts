@@ -5,7 +5,7 @@ export const components: Registry["items"] = [
     name: "switch-theme",
     type: "registry:component",
     dependencies: ["next-themes", "lucide-react", "motion"],
-    registryDependencies: ["https://mealisohail.com/r/cn.json"],
+    registryDependencies: ["https://mohammadkaif.com/r/cn.json"],
     files: [
       {
         path: "switch-theme/switch-theme.tsx",
@@ -17,7 +17,7 @@ export const components: Registry["items"] = [
     name: "flip-sentences",
     type: "registry:component",
     dependencies: ["motion"],
-    registryDependencies: ["https://mealisohail.com/r/cn.json"],
+    registryDependencies: ["https://mohammadkaif.com/r/cn.json"],
     files: [
       {
         path: "flip-sentences/flip-sentences.tsx",

@@ -5,7 +5,7 @@ export const PROJECTS: Project[] = [
     id: "dev-finder",
     title: "Dev Finder, Pair Programming Platform",
     time: "03.2024 - 04.2024",
-    link: "https://github.com/mealisohail/dev-finder",
+    link: "https://github.com/mohammadkaif/dev-finder",
     tags: [
       "Next.js",
       "Tailwind CSS v3",
@@ -27,7 +27,7 @@ export const PROJECTS: Project[] = [
     id: "medibuddy",
     title: "MediBuddy, Medicine Reminder App",
     time: "03.2025 - 04.2025",
-    link: "https://github.com/mealisohail/medibuddy",
+    link: "https://github.com/mohammadkaif/medibuddy",
     tags: [
       "React Native",
       "Expo",
@@ -43,7 +43,7 @@ export const PROJECTS: Project[] = [
     id: "deskops",
     title: "DeskOps, Task Management",
     time: "10.2023 - 11.2023",
-    link: "https://github.com/mealisohail/DeskOps",
+    link: "https://github.com/mohammadkaif/DeskOps",
     tags: [
       "Next.js",
       "React",
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
     id: "jark-pick",
     title: "Pick Outfit Suggester",
     time: "01.2024 - 03.2024",
-    link: "https://github.com/mealisohail/pick-mobile",
+    link: "https://github.com/mohammadkaif/pick-mobile",
     tags: [
       "Freelance Project",
       "Nodejs",
@@ -103,7 +103,7 @@ export const PROJECTS: Project[] = [
     id: "nfcCart",
     title: "Nfc Cart",
     time: "10.2024 - Present",
-    link: "https://github.com/mealisohail/nfccart-frontend",
+    link: "https://github.com/mohammadkaif/nfccart-frontend",
     tags: [
       "Freelance Project",
       "React",
@@ -125,7 +125,7 @@ export const PROJECTS: Project[] = [
     id: "skyljo",
     title: "Skyljo Dashboard",
     time: "02.2025 - Present",
-    link: "https://github.com/mealisohail/skyljo-frontend",
+    link: "https://github.com/mohammadkaif/skyljo-frontend",
     tags: [
       "Freelance Project",
       "React",
