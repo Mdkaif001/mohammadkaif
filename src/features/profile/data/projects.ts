@@ -2,7 +2,7 @@ import { Project } from "../types/projects";
 
 export const PROJECTS: Project[] = [
   {
-    id: "dev-finder",
+    id: "hiready-ai",
     title: "Dev Finder, Pair Programming Platform",
     time: "03.2024 - 04.2024",
     link: "https://github.com/mohammadkaif/dev-finder",
