@@ -3,7 +3,7 @@ import { Project } from "../types/projects";
 export const PROJECTS: Project[] = [
   {
     id: "hiready-ai",
-    title: "Hiready AI, Interview Preparation Tool",
+    title: "HireReady AI, Interview Preparation Tool",
     time: "03.2025 - 04.2025",
     link: "https://ai-interview-frontend-zeta.vercel.app/",
     tags: [
